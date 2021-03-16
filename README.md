@@ -1,4 +1,3 @@
-# San_Francisco_Steepness
 # Steepness in San Francisco:
 This project was done for USP4 at UCSD, using the GIS (Geographic Information Systems) software ArcGIS. 
 
