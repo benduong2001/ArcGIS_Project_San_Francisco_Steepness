@@ -11,7 +11,7 @@ This project uses several complex methods in terms of spatial joining and conver
 San Francisco is well-known for its hilly geography and steep streets.
 Maps about its steepness will give insight about how to navigate it for tourists who have difficulty with steep terrain, like the elderly and handicapped people.
 
-![](pictures/sf3dstreethill.png)
+![](pictures/sf3Dstreethill.png)
 # Process - Base Map
 * All maps were re-projected as NAD_1983_StatePlane_California_III_FIPS_0403
 * Made a discrete steepness map 
