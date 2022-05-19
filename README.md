@@ -19,6 +19,10 @@ Maps about its steepness will give insight about how to navigate it for tourists
 * All maps were re-projected as NAD_1983_StatePlane_California_III_FIPS_0403
 * Made a discrete steepness map 
   * Steepness raster conversion 
+    * Topo-to-Raster
+    * Slope
+    * Int, Raster_to_Polygon
+    * Field calculator
   * Steepness ranged from 0° to 52°
   * Categorized and Dissolved everything into 5 (multi-part) polygons for different steepness tier.
 ![](pictures/base_map.png)
