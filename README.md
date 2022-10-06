@@ -1,5 +1,5 @@
 # Steepness in San Francisco: Wheelchair Acccessible?
-This project was done for USP4 at UCSD, using the GIS (Geographic Information Systems) software ArcGIS. 
+This project was done using the GIS (Geographic Information Systems) software ArcGIS (USP4)
 
 # Summary
 
